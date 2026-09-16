@@ -1,0 +1,7 @@
+matrix_mult
+matrix_a.txt
+matrix_b.txt
+result_cpp.txt
+main.cpp.save
+__pycache__/
+*.o
