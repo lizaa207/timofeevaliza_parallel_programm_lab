@@ -43,3 +43,7 @@
 1. Сгенерировать матрицы:
    ```bash
    python3 generate.py
+2. Скомпилировать и запустить программу:
+   ```bash
+   g++ -O3 -fopenmp -o lab4 lab.cpp
+   ./lab4
