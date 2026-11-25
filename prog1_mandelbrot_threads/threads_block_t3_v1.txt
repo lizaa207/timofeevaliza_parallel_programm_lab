@@ -1,0 +1,3 @@
+Thread 0: 117.291 ms
+Thread 2: 118.584 ms
+Thread 1: 341.504 ms
